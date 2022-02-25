@@ -1,0 +1,2 @@
+# killme
+Vereus script
